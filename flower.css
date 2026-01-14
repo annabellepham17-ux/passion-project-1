@@ -1,0 +1,272 @@
+body{
+    background-color:rbg(236, 235, 232);
+}
+.attribute1{
+    display:block;
+    color:white;
+    font-family : 'Delius','Times New Roman', Times, serif;
+    font-size:clamp(0.1rem,2vw,1rem);
+    background-color: rgb(209,170,177);
+
+    border: 5px solid white;
+    border-radius: 30px;
+
+    padding: 2rem;
+    position: fixed;
+    left: 75%;
+    margin-top:10%;
+
+    width: 10%;
+    height:30%;
+}
+
+.attribute2{
+    display:none;
+    color:white;
+    font-family : 'Delius','Times New Roman', Times, serif;
+    font-size:clamp(0.1rem,2vw,1rem);
+    background-color: rgb(209,170,177);
+
+    border: 5px solid white;
+    border-radius: 30px;
+
+    padding: 2rem;
+
+    position: fixed;
+    left: 75%;
+    margin-top:10%;
+
+    width: 10%;
+    height:30%;
+}
+
+.attribute3{
+    display:none;
+    color:white;
+    font-family : 'Delius','Times New Roman', Times, serif;
+    font-size:clamp(0.1rem,2vw,1rem);
+    background-color: rgb(209,170,177);
+
+    border: 5px solid white;
+    border-radius: 30px;
+    padding: 2rem;
+
+    position: fixed;
+    left: 75%;
+    margin-top:10%;
+
+    width: 10%;
+    height:30%;
+}
+
+.attribute4{
+    display:none;
+    color:white;
+    font-family : 'Delius','Times New Roman', Times, serif;
+    font-size:clamp(0.1rem,2vw,1rem);
+    background-color: rgb(209,170,177);
+
+    border: 5px solid white;
+    border-radius: 30px;
+
+    padding: 2rem;
+
+    position: fixed;
+    left: 75%;
+    margin-top:10%;
+
+    width: 10%;
+    height:30%;
+}
+
+.attribute5{
+    display:none;
+    color:white;
+    font-family : 'Delius','Times New Roman', Times, serif;
+    font-size:clamp(0.1rem,2vw,1rem);
+    background-color: rgb(209,170,177);
+
+    border: 5px solid white;
+    border-radius: 30px;
+    padding: 2rem;
+
+    position: fixed;
+    left: 75%;
+    margin-top:10%;
+
+    width: 10%;
+    height:30%;
+}
+
+.attribute6{
+    display:none;
+    color:white;
+    font-family : 'Delius','Times New Roman', Times, serif;
+    font-size:clamp(0.1rem,2vw,1rem);
+    background-color: rgb(209,170,177);
+
+    border: 5px solid white;
+    border-radius: 30px;
+    padding: 2rem;
+
+    position: fixed;
+    left: 75%;
+    margin-top:10%;
+
+    width: 10%;
+    height:30%;
+}
+
+.pic1{
+    display:block;
+    position:fixed;
+    margin-top:7%;
+    left:37%;
+    width:20%;
+    height:70%;
+}
+
+.pic2{
+    display:none;
+    position:fixed;
+    left:25%;
+    margin-top:7%;
+    height:75%;
+    width:40%;
+}
+
+.pic3{
+    display:none;
+    position:fixed;
+    left:15%;
+    margin-top:7%;
+    height:70%;
+    width:40%;
+}
+
+.pic4{
+    display:none;
+    position:fixed;
+    left: 40%;
+    margin-top:10%;
+    height:70%;
+    width:40%;
+}
+
+.pic5{
+    display:none;
+    position:fixed;
+    left:28%;
+    margin-top:7%;
+    height:70%;
+    width:40%;
+}
+
+.pic6{
+    display:none;
+    position:fixed;
+    margin-top:4%;
+    left:10%;
+    height:80%;
+    width:50%;
+}
+
+.name1{
+    display:block;
+    position:fixed;
+    left:40%;
+    top:5%;
+    height:10%;
+    width:20%;
+}
+
+.name2{
+    display:none;
+    position:fixed;
+    left:40%;
+    top:5%;
+    height:10%;
+    width:20%;
+}
+.name3{
+    display:none;
+    position:fixed;
+    left:40%;
+    top:5%;
+    height:10%;
+    width:20%;
+}
+.name4{
+    display:none;
+    position:fixed;
+    left:40%;
+    top:5%;
+    height:10%;
+    width:20%;
+}
+
+.name5{
+    display:none;
+    position:fixed;
+    left:40%;
+    top:5%;
+    height:10%;
+    width:20%;
+}
+
+.name6{
+    display:none;
+    position:fixed;
+    left:40%;
+    top:5%;
+    height:10%;
+    width:20%;
+}
+
+.front_btn{
+    position:fixed;
+    left: 20%;
+    margin-top:17%;
+    width:20%;
+    height:40%
+}
+
+.back_btn{
+    position:fixed;
+    margin-top:15%;
+    left:55%;
+    width:20%;
+    height:40%;
+}
+
+.flower_btn{
+    display:block;
+    position: fixed;
+    bottom:20%;
+    left:60%;
+    height : 15%;
+    width : 15%;
+
+}
+
+.person{
+    border:none;
+    outline:none;
+    display:none;
+    position:fixed;
+    left:43%;
+    top:10%;
+    
+}
+
+.person:focus{
+    outline:none;
+    color : yellow;
+}
+
+.why{
+    display: none;
+    position:fixed;
+    left:43%;
+    bottom:10%;
+}
